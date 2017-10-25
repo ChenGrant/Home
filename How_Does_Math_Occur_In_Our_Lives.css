@@ -27,11 +27,11 @@ p.big
 }
 #image01/*My images have separate identites because the two images don't have the same dimmensions*/
 {
-	width: 600px;
-	height: 400px;
+	width: 500px;
+	height: 300px;
 }
 #image02
 {
-	width: 600px;
-	height: 400px;
+	width: 500px;
+	height: 300px;
 }
