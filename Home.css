@@ -1,0 +1,41 @@
+body
+{
+	background-color: silver;
+	color: black;
+	margin: 10%;
+}
+ul li
+{
+	font-family: Times New Roman;
+	list-style-type: none;
+	display: inline;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+h1
+{
+	border: 2px solid red;
+	text-align: center;
+	color: black;
+	font-family: Times New Roman;
+}
+p.big
+{
+	font-family: Times New Roman;
+	text-indent: 50px;
+	line-height: 130%;
+}
+#image01/*My images have separate identites because the two images don't have the same dimmensions*/
+{
+	width: 550px;
+	height:280px;
+	display: block;
+	margin: 0 auto;
+}
+#image02
+{
+	width: 400px;
+	height:280px;
+	display: block;
+	margin: 0 auto;
+}

@@ -1,0 +1,98 @@
+body
+{
+	background-color: silver;
+	color: black;
+	margin: 10%;
+}
+ul li/*This was used to make my internal links look like a bar rather than a list*/
+{
+	font-family: Times New Roman;
+	list-style-type: none;
+	display: inline;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+h1
+{
+	border: 2px solid red;
+	text-align: center;
+	color: black;
+	font-family: Times New Roman;
+}
+h2
+{
+	text-align: center;
+	color: black;
+	font-family: Times New Roman;
+}
+p.big/*This was used to make my paragraphs indented and to make the line spacing bigger*/
+{
+	font-family: Times New Roman;
+	text-indent: 50px;
+	line-height: 130%;
+}
+#GBTP
+{
+	font-family: Times New Roman;
+}
+#image01/*These following rules are just to give each image their dimensions*/
+{
+	width: 210px;
+	height: 280px;
+}
+#image02
+{
+	width: 500px;
+	height: 250px;
+}
+#image03
+{
+	width: 200px;
+	height: 125px;
+}
+#image04
+{
+	width: 210px;
+	height: 280px;
+}
+#image05
+{
+	width: 200px;
+	height: 200px;
+}
+#image06
+{
+	width: 280px;
+	height: 210px;
+}
+#image07
+{
+	width: 250px;
+	height:320px;
+}
+#image08
+{
+	width: 300px;
+	height: 100px;
+	display: block;
+	margin: 0 auto;
+}
+#image09
+{
+	width: 300px;
+	height: 105px;
+	display: block;
+	margin: 0 auto;
+}
+#image10
+{
+	width: 300px;
+	height: 250px;
+	display: block;
+	margin: 0 auto;
+}
+#image11
+{
+	width: 210px;
+	height: 285px;
+}

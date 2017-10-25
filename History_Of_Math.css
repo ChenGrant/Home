@@ -1,0 +1,57 @@
+body
+{
+	background-color: silver;
+	color: black;
+	margin: 10%;
+}
+ul li/*This was used to make my internal links look like a bar rather than a list*/
+{
+	font-family: Times New Roman;
+	list-style-type: none;
+	display: inline;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+h1
+{
+	border: 2px solid red;
+	text-align: center;
+	color: black;
+	font-family: Times New Roman;
+}
+h2/*This following rule is used to format my heading 2.*/
+{
+	font-family: Times New Roman;
+	text-align: center;
+	color: black;
+}
+#p01
+{
+	font-family: Times New Roman;
+	text-indent: 50px;
+	line-height: 130%;
+}
+#p02
+{
+	font-family: Times New Roman;
+}
+li
+{
+	font-family: Times New Roman;
+	color: red;
+}
+li span
+{
+	font-family: Times New Roman;
+	color: black;
+}
+#image01
+{
+	width: 214px;
+	height:235px;
+}
+#image02
+{
+	width:400px;
+	height:235px;
+}

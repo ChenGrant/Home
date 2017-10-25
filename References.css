@@ -1,0 +1,39 @@
+body
+{
+	background-color: silver;
+	color: black;
+	margin: 10%;
+}
+ul li
+{
+	font-family: Times New Roman;
+	list-style-type: none;
+	display: inline;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+h1
+{
+	border: 2px solid red;
+	text-align: center;
+	color: black;
+	font-family: Times New Roman;
+}
+h2
+{
+	text-align: center;
+	color: black;
+	font-family: Times New Roman;
+}
+h3
+{
+	text-align: left;
+	color: black;
+	font-family: Times New Roman;
+}
+p
+{
+	font-family: Times New Roman;
+	text-indent: 50px;
+	line-height: 130%;
+}
